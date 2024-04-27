@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ClassyCoder1.ClassyCoder1" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Classy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Classy!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India, i have experience in Java, Kotlin, Javascript, Typescript, PHP, CSS, Python, HTML and Ruby!</h3>
@@ -30,7 +30,7 @@ I’m currently learning **C**.
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,php,mongodb,tuby,kotlin,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,php,mongodb,ruby,kotlin,nextjs,mysql" /><br>
 </div>
 
 <br/>
