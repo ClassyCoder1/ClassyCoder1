@@ -39,8 +39,7 @@ I’m currently learning **C**.
 <div align="center">
   <h2>My Contributions</h2>
   <br>
-  ![image](https://github.com/ClassyCoder1/ClassyCoder1/assets/85794873/7e746396-2ea6-490e-9d3a-320ac93550a9)
-
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ClassyCoder1/ClassyCoder1/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
