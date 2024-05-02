@@ -12,6 +12,8 @@ on:
     #        * *  *   * *
     - cron: "*/5 * * * *"
 
+workflow-dispatch:
+
 permissions:
   actions: read
   checks: read
