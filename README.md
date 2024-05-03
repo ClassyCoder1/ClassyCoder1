@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ClassyCoder1.ClassyCoder1" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=ClassyCoder1&icon=2&color=12" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Classy!;+Wanna+know+about+me?;+Check+out+my+projects.;+Wanna+message+me?;+DM+me+on+Discord!" />
