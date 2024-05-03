@@ -54,13 +54,18 @@ I’m currently learning **C**.
   <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api?username=ClassyCoder1&count_private=true&show_icons=true&hide_border=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
     <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api/top-langs/?username=ClassyCoder1&layout=compact&langs_count=2&hide_border=true&theme=dark" />
-    <img width=390 align="senter" src="https://github-contributor-stats.vercel.app/api?username=ClassyCoder1&limit=5&hide_border=true&theme=dark&combine_all_yearly_contributions=true" />
+    <img width=390 align="center" src="https://github-contributor-stats.vercel.app/api?username=ClassyCoder1&limit=10&hide_border=true&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <br/><br/>
 
 <hr/>
-
+<h2 align="center">Pinned repo</h2>
+<br>
+<div align="center">
+    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClassyCoder1&repo=FunCommands&theme=dark&hide_border=true" />
+</div>
+<br/>
 <br/>
 
 <div align="center">
