@@ -52,8 +52,8 @@ I’m currently learning **C**.
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ClassyCoder1&theme=dark&hide_border=true" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ClassyCoder1&count_private=true&show_icons=true&hide_border=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClassyCoder1&layout=normal&langs_count=8&hide_border=true&theme=dark" />
-    <img width=390 align="senter" src="https://github-contributor-stats.vercel.app/api?username=ClassyCoder1&limit=10&hide_border=true&theme=dark&combine_all_yearly_contributions=true" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClassyCoder1&layout=compact&langs_count=2&hide_border=true&theme=dark" />
+    <img width=390 align="senter" src="https://github-contributor-stats.vercel.app/api?username=ClassyCoder1&limit=5&hide_border=true&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <br/><br/>
