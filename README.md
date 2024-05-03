@@ -1,4 +1,4 @@
-<img align="center" src="https://visitcount.itsvg.in/api?id=ClassyCoder1&icon=2&color=12" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=ClassyCoder1&icon=2&color=12" />
 
 
 <h1 align="center">
@@ -51,9 +51,9 @@ I’m currently learning **C**.
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ClassyCoder1&theme=dark&hide_border=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api?username=ClassyCoder1&count_private=true&show_icons=true&hide_border=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api?username=ClassyCoder1&count_private=true&show_icons=true&&lifetime=true&hide_border=true&theme=dark&rank_icon=github&border_radius=10&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="readme stats" />
   <br/>
-    <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api/top-langs/?username=ClassyCoder1&layout=compact&langs_count=2&hide_border=true&theme=dark" />
+    <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api/top-langs/?username=ClassyCoder1&layout=compact&langs_count=5&hide_border=true&theme=dark" />
     <img width=390 align="center" src="https://github-contributor-stats.vercel.app/api?username=ClassyCoder1&limit=10&hide_border=true&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
@@ -63,7 +63,7 @@ I’m currently learning **C**.
 <h2 align="center">Pinned repo</h2>
 <br>
 <div align="center">
-    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClassyCoder1&repo=FunCommands&theme=dark&hide_border=true" />
+    <img width=390 align="center" src="https://github-readme-stats-classycoder1.vercel.app/api/pin/?username=ClassyCoder1&repo=FunCommands&theme=dark&hide_border=true&show_owner=true" />
 </div>
 <br/>
 <br/>
