@@ -1,6 +1,3 @@
-<img align="center" src="https://visitcount.itsvg.in/api?id=ClassyCoder1&icon=2&color=12" />
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Classy!;+Wanna+know+about+me?;+Check+out+my+projects.;+Wanna+message+me?;+DM+me+on+Discord!" />
 </h1>
@@ -60,13 +57,20 @@ I’m currently learning **C++**.
 <br/><br/>
 
 <hr/>
-<h2 align="center">Pinned repo</h2>
+<h2 align="center">Pinned repositories</h2>
 <br>
 <div align="center">
     <img width=390 align="center" src="https://github-readme-stats-classycoder1.vercel.app/api/pin/?username=ClassyCoder1&repo=FunCommands&theme=dark&hide_border=true&show_owner=true" />
 </div>
 <br/>
+<br>
+<div align="center">
+    <img width=390 align="center" src="https://github-readme-stats-classycoder1.vercel.app/api/pin/?username=ClassyCoder1&repo=Classy&theme=dark&hide_border=true&show_owner=true" />
+</div>
 <br/>
+<br/>
+
+<img align="right" src="https://visitcount.itsvg.in/api?id=ClassyCoder1&icon=2&color=12" />
 
 <div align="center">
 <a href='https://ko-fi.com/classycoder' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
