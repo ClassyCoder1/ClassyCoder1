@@ -6,15 +6,7 @@
 
 <br/>
 
-<div align="center">
- 
-I’m currently working on a Hypixel Remake called **Pinkpixel**.
- 
-I’m currently learning **C++**.
-
-💬 Ask me about **Java, Kotlin, JavaScript... or anything [here](https://github.com/ClassyCoder1/ClassyCoder1/issues)**
-
- </div>
+<h3 align="center">How to reach me?</h4>
  
 <div align="center"> 
   <a href="mailto:classycoder1@gmail.com">
@@ -24,7 +16,7 @@ I’m currently learning **C++**.
 
  <hr/>
  
-<h2 align="center">⚒️ Languages and Frameworks</h2>
+<h2 align="center">Languages and Frameworks</h2>
 <br/>
 <div align="center">
     <code><img src="https://skillicons.dev/icons?i=gitlab,vscode,github,git" /></code>
@@ -48,10 +40,10 @@ I’m currently learning **C++**.
 <h2 align="center">My GitHub Stats</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ClassyCoder1&theme=dark&hide_border=true&skill_icon=github" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api?username=ClassyCoder1&count_private=true&show_icons=true&hide_border=true&theme=dark&skill_icon=github" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ClassyCoder1&theme=dark&hide_border=true&skill_icon=github_dark" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api?username=ClassyCoder1&count_private=true&show_icons=true&hide_border=true&theme=dark&skill_icon=github_dark" alt="readme stats" />
   <br/>
-    <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api/top-langs/?username=ClassyCoder1&layout=compact&langs_count=50&hide_border=true&theme=dark" />
+    <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api/top-langs/?username=ClassyCoder1&layout=compact&langs_count=51&hide_border=true&theme=dark" />
     <img width=390 align="center" src="https://github-contributor-stats.vercel.app/api?username=ClassyCoder1&limit=15&hide_border=true&theme=dark&combine_all_yearly_contributions=true&skill_icon=github" />
 </div>
 
