@@ -1,0 +1,20 @@
+name: GRS card generation
+on:
+  schedule:
+  - cron:  '0 0 */1 * *'
+
+jobs:
+  ceateGRSCards:
+    name: Create and Store GRS cards
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run top issues action
+      uses: anuraghazra/github-readme-stats@master
+      env:
+        REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+      with:
+        save_path: ""
+        stats_card_query: ?username=ClassyCoder1
+        lang_card_query: ?username=ClassyCoder1
+        repo_card_query: ?username=ClassyCoder1&repo=FunCommands
+        repo_card_query_2: ?username=ClassyCoder1&repo=Classy
