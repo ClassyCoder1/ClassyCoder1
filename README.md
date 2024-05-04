@@ -1,11 +1,11 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=ClassyCoder1&icon=2&color=12" />
+<img align="center" src="https://visitcount.itsvg.in/api?id=ClassyCoder1&icon=2&color=12" />
 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Classy!;+Wanna+know+about+me?;+Check+out+my+projects.;+Wanna+message+me?;+DM+me+on+Discord!" />
 </h1>
 
-<h3 align="center">A passionate software developer from India, i have experience in Java, Kotlin, Javascript, Typescript, PHP, CSS, Python, HTML and Ruby!</h3>
+<h3 align="center">A passionate software developer from India, i have experience in Java, Kotlin, Javascript, Typescript, PHP, CSS, Python, Swift, C, HTML and Ruby!</h3>
 
 <br/>
 
@@ -13,7 +13,7 @@
  
 I’m currently working on a Hypixel Remake called **Pinkpixel**.
  
-I’m currently learning **C#**.
+I’m currently learning **C++**.
 
 💬 Ask me about **Java, Kotlin, JavaScript... or anything [here](https://github.com/ClassyCoder1/ClassyCoder1/issues)**
 
