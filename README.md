@@ -48,10 +48,10 @@ I’m currently learning **C++**.
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ClassyCoder1&theme=dark&hide_border=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api?username=ClassyCoder1&count_private=true&show_icons=true&&lifetime=true&hide_border=true&theme=dark&rank_icon=github" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api?username=ClassyCoder1&count_private=true&show_icons=true&lifetime=true&hide_border=true&theme=dark&rank_icon=github" alt="readme stats" />
   <br/>
-    <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api/top-langs/?username=ClassyCoder1&layout=compact&langs_count=20&hide_border=true&theme=dark" />
-    <img width=390 align="center" src="https://github-contributor-stats.vercel.app/api?username=ClassyCoder1&limit=10&hide_border=true&theme=dark&combine_all_yearly_contributions=true" />
+    <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api/top-langs/?username=ClassyCoder1&layout=compact&langs_count=200&hide_border=true&theme=dark" />
+    <img width=390 align="center" src="https://github-contributor-stats.vercel.app/api?username=ClassyCoder1&limit=15&hide_border=true&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <br/><br/>
