@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from India, i have experience in Java, Kotlin, Javascript, Typescript, PHP, CSS, Python, Swift, C, HTML and Ruby!</h3>
-
+<img width=100 align="center" src="https://komarev.com/ghpvc/?username=ClassyCoder1&abbreviated=true&style=flat&color=blue" />
 <br/>
 
 <h3 align="center">How to reach me?</h4>
@@ -42,6 +42,8 @@
 <div align=center>
     <img width="390" src="https://github-readme-stats-classycoder1.vercel.app/api?username=ClassyCoder1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark" alt="readme stats" />
   <br/>
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ClassyCoder1&theme=dark&hide_border=true" alt="readme stats" />
+  <br/>
     <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api/top-langs/?username=ClassyCoder1&layout=compact&langs_count=50&hide_border=true&theme=dark" />
 </div>
 
@@ -60,8 +62,6 @@
 </div>
 <br/>
 <br/>
-
-<img align="right" src="https://visitcount.itsvg.in/api?id=ClassyCoder1&icon=2&color=12" />
 
 <div align="center">
 <a href='https://ko-fi.com/classycoder' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
